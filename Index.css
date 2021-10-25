@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    -moz-text-size-adjust: inherit;
+    font-size: larger;
+    color: cornsilk;
+    background: darkcyan;
+    margin: inherit;
+}
+.MainDiv{
+    display: inline-flex;
+    align-items: flex-start;
+    margin: 8px;
+}
+.body{
+    background: cadetblue;
+    
+    
+}
+.Services{
+    background: darkkhaki;
+    margin: auto;
+    width: -webkit-fill-available;
+    margin: 8px;
+    text-align: center;
+    color: darkblue;
+}
+.Para{
+    text-align: justify;
+    margin: 8px;
+}
+.Head{
+    color: darkmagenta;
+}
+.Service{
+    text-align: center;
+}
+
